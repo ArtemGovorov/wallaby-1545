@@ -1,0 +1,10 @@
+{
+  "name": "wallaby-1545",
+  "version": "0.0.1",
+  "dependencies": {
+    "@types/jest": "^22.2.0",
+    "jest": "^22.4.2",
+    "ts-jest": "^22.4.1",
+    "typescript": "^2.7.2"
+  }
+}
