@@ -15,8 +15,12 @@ export default class A {
         return await p;
     }
 
+    public b(p: any) {
+        return this.c(p);
+    }
+
     @action()
-    private b(p: any) {
+    private c(p: any) {
         return p;
     }
 }
